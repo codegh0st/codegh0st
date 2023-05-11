@@ -1,4 +1,7 @@
 ### Hi there 👋
+i am rahul raj singh, 
+Cloud and DevOps Practitioner.
+I am a Quick and Continuous Learner.
 
 <!--
 **codegh0st/codegh0st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
